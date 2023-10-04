@@ -1,4 +1,4 @@
-# Selamat Datang di Repositori Belajar Programming
+# Selamat Datang di Repositori Belajar Bareng SR
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
@@ -24,8 +24,6 @@ Anda dapat berkontribusi dengan cara berikut:
 ## Cara Memulai
 
 - Untuk memulai belajar Python, periksa direktori [Python](python/).
-
-- Jika Anda tertarik dengan web programming, lihat direktori [Web Programming](web-programming/).
 
 - Jangan ragu untuk menjelajahi direktori-direktori lainnya dan menemukan proyek-proyek menarik.
 
