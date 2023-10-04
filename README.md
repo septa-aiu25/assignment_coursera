@@ -3,7 +3,7 @@
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 
-Selamat datang di repositori ini! Tujuan utama repositori ini adalah untuk belajar dan mengembangkan keterampilan dalam programming, khususnya dalam bahasa pemrograman Python dan web programming.
+Selamat datang di repositori ini! Tujuan utama repositori ini adalah untuk belajar dan mengembangkan keterampilan dalam programming, khususnya dalam bahasa pemrograman Python
 
 ## Mengapa Repositori Ini Ada?
 
@@ -15,9 +15,9 @@ Anda dapat berkontribusi dengan cara berikut:
 
 - Menambahkan proyek Python yang menarik atau latihan Python.
 
-- Berbagi tutorial, artikel, atau sumber daya yang bermanfaat tentang Python atau web programming.
+- Berbagi tutorial, artikel, atau sumber daya yang bermanfaat tentang Python.
 
-- Berkontribusi pada proyek web programming yang sedang berjalan atau menambahkan fitur-fitur baru.
+- Berkontribusi pada proyek Python Programming yang sedang berjalan atau menambahkan fitur-fitur baru.
 
 - Memberikan masukan dan umpan balik positif untuk pengembangan repositori ini.
 
