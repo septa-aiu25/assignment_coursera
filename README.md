@@ -9,8 +9,6 @@ Selamat datang di repositori ini! Tujuan utama repositori ini adalah untuk belaj
 
 - **Pembelajaran Python**: Kami berkomitmen untuk memahami Python secara lebih mendalam. Anda akan menemukan berbagai proyek, latihan, dan tutorial Python di sini.
 
-- **Web Programming**: Kami juga tertarik untuk belajar web programming, termasuk HTML, CSS, JavaScript, dan kerangka kerja web populer seperti Flask dan Django. Kami akan berbagi proyek dan contoh tentang web development.
-
 ## Bagaimana Anda Bisa Berkontribusi?
 
 Anda dapat berkontribusi dengan cara berikut:
