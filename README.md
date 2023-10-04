@@ -1,7 +1,7 @@
 # Selamat Datang di Repositori Belajar Programming
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-![Web Programming Logo](https://example.com/web-programming-logo.png)
+
 
 Selamat datang di repositori ini! Tujuan utama repositori ini adalah untuk belajar dan mengembangkan keterampilan dalam programming, khususnya dalam bahasa pemrograman Python dan web programming.
 
@@ -31,8 +31,3 @@ Anda dapat berkontribusi dengan cara berikut:
 
 - Jangan ragu untuk menjelajahi direktori-direktori lainnya dan menemukan proyek-proyek menarik.
 
-## Hubungi Kami
-
-Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi tentang programming, silakan buka masalah (issue) atau hubungi kami melalui [email](mailto:youremail@example.com).
-
-Mari belajar bersama dan berkembang dalam dunia programming!
